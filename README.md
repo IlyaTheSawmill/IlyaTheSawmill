@@ -1,12 +1,14 @@
-# IlyaYezelovsky
+# IlyaTheSawmill
 
-一名高二学生（物化生），成绩还不错，Minecraft玩家，并且会在其他一些领域出现，例如OC圈（有原创世界观设定）、铁道圈（主要是日系铁道）、低浓度二次元等。
+**English** | [中文](https://github.com/IlyaTheSawmill/IlyaTheSawmill/blob/main/README_zh.md) | [日本語](https://github.com/IlyaTheSawmill/IlyaTheSawmill/blob/main/README_jp.md)
 
-联系方式：
+Senior 2 with *relatively* good grades, a Minecraft player, and also active in other areas such as the OC (original character) community (with original world-building), the railway community (mainly Japanese railways, i.e. tetsuota), and *slightly* ACG culture.
 
-* Wikidot：Ilya Yezelovsky
-* Discord：ilya_yezelovsky
-* QQ：1026491165
-* 邮箱：ilya@lokova.org
-* Minecraft Java版ID：IlyaYezelovsky
-* Bilibili：https://space.bilibili.com/3493084490893445
+Contact Information:
+
+* Wikidot: Ilya Yezelovsky
+* Discord: ilya_sawmill
+* QQ: 1026491165
+* Email: ilya@lokova.org
+* Minecraft Java Edition ID: IlyaTheSawmill
+* Bilibili: https://space.bilibili.com/3493084490893445
