@@ -2,7 +2,7 @@
 
 **English** | [中文](https://github.com/IlyaTheSawmill/IlyaTheSawmill/blob/main/README_zh.md) | [日本語](https://github.com/IlyaTheSawmill/IlyaTheSawmill/blob/main/README_jp.md)
 
-Senior 2 with *relatively* good grades, a Minecraft player, and also active in other areas such as the OC (original character) community (with original world-building), the railway community (mainly Japanese railways, i.e. tetsuota), and *slightly* ACG culture.
+Senior 3 with *relatively* good grades, a Minecraft player, and also active in other areas such as the OC (original character) community (with original worldbuilding), the railway community (mainly Japanese railways, i.e. tetsuota), and *slightly* otaku culture.
 
 Contact Information:
 
