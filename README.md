@@ -12,3 +12,5 @@ Contact Information:
 * Email: ilya@lokova.org
 * Minecraft Java Edition ID: IlyaTheSawmill
 * Bilibili: https://space.bilibili.com/3493084490893445
+
+My full page: https://www.lokova.org/staff/ilya/en
