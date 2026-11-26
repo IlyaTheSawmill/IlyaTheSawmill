@@ -13,3 +13,5 @@
 * メールアドレス：ilya@lokova.org
 * Minecraft Java Edition ID：IlyaTheSawmill
 * Bilibili：https://space.bilibili.com/3493084490893445
+
+フルユーザーページ：https://www.lokova.org/staff/ilya/ja
