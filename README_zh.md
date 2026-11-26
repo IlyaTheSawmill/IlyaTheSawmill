@@ -12,3 +12,5 @@
 * 邮箱：ilya@lokova.org
 * Minecraft Java版ID：IlyaTheSawmill
 * Bilibili：https://space.bilibili.com/3493084490893445
+
+完整用户页https://www.lokova.org/staff/ilya
